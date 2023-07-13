@@ -11,6 +11,9 @@ Elf Qrin is a web page that generate's beefy profiles for fake personas. The web
 ## What does ElfCorgi do?
 This tool interacts with Elf Qrin's web page to generate fake personas and outputs the data into a parsable, greppable file. All the details will be saved into a txt file on your endpoint as well as output to the screen.
 
+## What does ElfCorgi REALLY do?
+Ok, you got me. A mystical corgi house elf obtains a sock full of an imaginary person's secrets and shakes it out, printing it to your screen.
+
 ## Usage
 `python3 ElfCorgi.py`
 
