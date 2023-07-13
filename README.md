@@ -1,5 +1,8 @@
 # ElfCorgi
 CLI for Elf Qrin's sock puppet account generator
+![image](https://github.com/zeroday504/ElfCorgi/assets/84281259/9473a4e5-9042-4faa-9428-bb86b8b66d04)
+
+
 
 ## What is a sock puppet account?
 A sock puppet account is a fake persona used for online interactions. These can be used during OSINT investigations or when a user is trying to prevent successful attribution to their online activity. There's an excellent write-up on sock puppet accounts here: 
