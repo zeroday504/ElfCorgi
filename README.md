@@ -2,7 +2,7 @@
 CLI for Elf Qrin's sock puppet account generator
 
 ## What is a sock puppet account?
-A sock puppet account is a fake persona used for online interactions. These can be used during OSINT investigations or when a user is trying to prevent attribution to activity. There's an excellent write-up on sock puppet accounts here: 
+A sock puppet account is a fake persona used for online interactions. These can be used during OSINT investigations or when a user is trying to prevent successful attribution to their online activity. There's an excellent write-up on sock puppet accounts here: 
 https://ztrkouzhan.medium.com/the-mega-sock-puppets-tutorial-for-osint-af3bd29dd5fc
 
 ## What is Elf Qrin's sock puppet account generator?
