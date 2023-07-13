@@ -71,5 +71,6 @@ for line in delete_me:
                 sock_puppet_file.write(output)
                 count = count + 1
 
+delete_me.close()
 os.remove("delete_me.txt")
 print('\nOutput has been saved in the current directory as sockpuppetfile.txt')
